@@ -5,7 +5,7 @@ Code and notes following along the udemy course:
 [Design Patterns in Python](https://www.udemy.com/course/design-patterns-python/). 
 
 
-###**SOLID** Design Principles:
+### **SOLID** Design Principles:
 * Introduced by Robert C. Martin.
 * **Single Responsibility Principle**:
     * A class should have a primary responsibility and should not take on other responsibilities. 
